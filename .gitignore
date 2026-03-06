@@ -1,0 +1,40 @@
+# build
+bin/
+obj/
+out/
+build/
+
+# ide
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.sln.iml
+
+# nuget
+*.nupkg
+.nuget/
+packages/
+
+# logs
+*.log
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# temp
+*.tmp
+*.temp
+*.cache
+
+# roms & generated files
+*.gb
+*.gbc
+*_corrupted.gb
+*.png
+*_diff.png
+preview.png
